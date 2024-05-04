@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "pihedy/goat-watch",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A Laravel application for movies and TV shows",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
