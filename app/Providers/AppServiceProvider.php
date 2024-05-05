@@ -5,6 +5,8 @@ namespace App\Providers;
 use \Illuminate\Support\ServiceProvider;
 
 /**
+ * This service provider does not have any specific services to register or bootstrap.
+ *
  * @author Pihe Edmond <pihedy@gmail.com>
  */
 class AppServiceProvider extends ServiceProvider
